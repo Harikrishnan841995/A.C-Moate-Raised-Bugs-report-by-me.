@@ -1,0 +1,1477 @@
+" BUGS " RISED IN TEAMS:;
+
+SI NO: 3815 - Fixed & closed
+
+Issue in the end value mismatch between monthly price and yearly price calculation in tier 2 pricing:
+ 
+Step 1: Login with valid credentials
+Step 2: Create the PLLP Estimate
+Step 3: Enter the Values in the PLLP
+Step 4: Click on the CALCULATE and SUBMIT
+Step 5: User Creates Written Estimate for PLLP
+Step 6: In tier 2 pricing monthly price multiplied to yearly winter service price value mismatch is there for calculated value of 0.02 is higher.
+---
+SI NO:3824---> mentioned-->fixed  - Fixed & closed
+
+Issue in PLLP add on services crackfill job not created:
+
+Step 1: Login with valid credentials
+Step 2: Create the PLLP Estimate
+Step 3: Enter the Values in the PLLP
+Step 4: Click on the CALCULATE and SUBMIT
+Step 5: User Creates Written Estimate for PLLP
+Step 6: Crackfill job not getting created under PLLP Add-on services because off ( per yearlist:[] ) empty values.
+---
+SI NO:3825 -->mentioned-->fixed  - Fixed & closed
+
+Issue in PLLP Wizard in pllp add-on services number fields accepting invalid values:
+
+Step 1: Login with valid credentials
+Step 2: Create the PLLP Estimate
+Step 3: Enter the Values in the PLLP
+Step 4: Click on PLLP under pllp wizard page in pllp add-on services frequency and year number fields
+        accepting minus values while entering invalid values into number fields.
+Step 5: Click on calculate button-->cost/month and cost/year showing minus price values.
+---
+SI NO:3831---> mentioned-->fixed - Fixed & closed
+
+Overlapping Issue in PLLP Wizard:
+
+Step 1: Login with valid credentials
+Step 2: Create the PLLP Estimate
+Step 3: Enter the Values in the PLLP
+Step 4: Click on PLLP under pllp wizard page enter values and CALCULATE
+Step 5: Under pricing protection cost gets overlapped.
+---
+
+SI NO: 3835 - Fixed & closed
+
+
+Issue in PLLP add on services jobs not created:
+
+Step 1: Login with valid credentials
+Step 2: Create the PLLP Estimate
+Step 3: Enter the Values in the PLLP
+Step 4: Click on the CALCULATE and SUBMIT
+Step 5: User Creates Written Estimate for PLLP remove include tick button save and approve.
+Step 6: Click on pllp add-on services--> pllp add-on job info page is empty-->crackfill jobs not created.
+---
+SI NO: 3836 - Fixed & closed
+
+Issue in the end value mismatch in pllp+ add-on(tier 1) total price and monthly price calculation:
+
+Step 1: Login with valid credentials
+Step 2: Create the PLLP Estimate
+Step 3: Enter the Values in the PLLP
+Step 4: Click on the CALCULATE and SUBMIT
+Step 5: User Creates Written Estimate for PLLP Estimate in pllp+ addons(tier 1)
+Step 6: Price mismatch in end values Total price and Monthly price
+
+Note: when user clicks ON and OFF include tick button-->price calculation is get's corrected.
+---
+SI NO: 3838-->mentioned-->fixed  - Fixed & closed
+
+Issue in the Miscellaneous cost field:
+
+Step 1: Login with valid credentials
+Step 2: Select the PLLP Estimate
+Step 3: Click on the PLLP
+Step 4: Users not able to enter the Characters in the Miscellaneous cost field. But User can Copy and Paste the Value field allows.
+Step 5: When user clicks CALCULATE and SUBMIT button-->page shows an Error message-->There seems to be an issue..
+---
+SI NO: 3841 - Fixed & closed
+
+Issue in PLLP Wizard Right arrow icon get placed in pricing tier 1 popup:
+
+Step 1: Login with valid credentials
+Step 2: Create the PLLP Estimate
+Step 3: Enter the Values in the PLLP
+Step 4: Click on PLLP under pllp wizard page enter values and CALCULATE
+Step 5: Under tier-1 pricing popup list-->Right arrow in get placed there while scrolling.
+Step 6: When user scrolls up and down, Arrow icon covering the price values.
+---
+SI NO: 3842 - Fixed & closed
+
+Issue in PLLP wizard Pricing table getting out of the screen and  issues in sealcoat, striping, crackfill wizard pages:
+ 
+Step 1: Login with valid credentials
+Step 2: Create the PLLP Estimate
+Step 3: Enter the Values in the PLLP
+Step 4: Click on PLLP under pllp wizard page enter values in Service Square footage field like-900000.
+Step 5: And drag Services in 24 hours to-4 then click on calculate.
+Step 6: While adding equipment details and price values tables getting out of the screen and Material configuration & other equipment details tables getting merged while entering values when open and close of side panel.
+---
+SI NO: 3844 - Fixed & closed
+
+Issue in pllp create written estimate under-->Payment schedule-->Price values getting out of table:
+
+Step 1: Login with valid credentials
+Step 2: Create the PLLP Estimate
+Step 3: Enter the Values in the PLLP services
+Step 4: Click on PLLP in pllp wizard page in service square footage enter value like-899999 CALCULATE and SUBMIT
+Step 5: Click on-->Create written estimate under page payment schedule price values getting out of the table.
+---
+SI NO:3848 - Fixed & closed
+
+Issue in PLLP Winter service estimate Unit cost and before time fields Alignments:
+
+Step 1: Login with valid credentials
+Step 2: Create the PLLP Estimate
+Step 3: Click on Winter service --> scroll down page under WS only pricing-->Unit cost  & Exclusions--> Days and Holidays widgets.
+Step 4: Haves alignment issues in -->Unit cost getting merged, disappeared and Before time fields getting out from widget screen.
+Step 5: When pllp side panel open or close alignment remains same for before time.
+---
+SI NO:3866 - Fixed & closed
+
+Issue in property page-PLLP Add-on Services-->Unit price and Total price is getting (0) values:
+
+Step 1: Login with valid credentials
+Step 2: Create the PLLP Estimate
+Step 3: In PLLP wizard page enter the (0) Values in last year fields
+Step 4: Click on the CALCULATE and SUBMIT
+Step 5: Click on Create written Estimate and Approve
+Step 6: Navigate to property page->unit and total prices showing 0 in pllp add-on services.
+---
+SI NO:3873 - Fixed & closed
+
+Issue in the PLLP Budget:
+
+Step 1: Login with valid credentials
+Step 2: Select the Property and Create the PLLP Budget
+Step 3: Create the Sealcoat / Striping/ Pressure Wash and Written estimate and tie up with PLLP Budget
+Step 4: Click CALCULATE and SUBMIT
+Step 5: Click on the Send to Budget
+Step 6: Select the BUDGET LIST from the ALLIED FORCES from CENTER
+Step 7: Under budget list page click on price amount budget breakup widget is not showing total price.
+---
+SI NO:3875
+
+Issue in Budget Services-PLLP wizard- Pricing-->Added Miscellaneous cost not showing in popup:
+
+Step 1: Login with valid credentials
+Step 2: Select the Property and Create the PLLP Budget
+Step 3: Create services then click on PLLP-->Enter miscellaneous cost in both tier-1 and tier-2 prices.
+Step 4: Click CALCULATE then click on popup icon under list miscellaneous cost showing 0 prices for both.
+---
+SI NO:3884
+
+Issue in Budget services-PLLP wizard-Pricing haves years mismatch and Add-on services cost not showing:
+
+Step 1: Login with valid credentials
+Step 2: Select the Property and Create the PLLP Budget
+Step 3: Create services then click on PLLP-select contract year 1 --> CALCULATE and SUBMIT
+Step 4: Again click PLLP- Select contract year 2 or 3 click on Calculate--> years mismatch issue under pricing table.
+Step 5: Select Add-on services Enter values then click on calculate Add-on price is not showing under tier 1 popup.
+---
+SI NO:3890
+
+Issue in Budget services Tier 1 price details PLLP ADDONS cost/year Popup:
+
+Step 1: Login with valid credentials
+Step 2: Select the Property and Create the PLLP Budget
+Step 3: Create services then click on PLLP
+Step 4: In BUDGET Services pllp wizard page select pllp add-on services enter frequency.
+Step 5: Click CALCULATE under page tier 1 pricing-->pllp add-on cost/year popup is not showing calculated formula and price details instead of showing only Pressure wash message.
+Step 6: For sealcoat Yellow color highlighter not displayed need to display the Yellow color highlighter for price details.
+---
+SI NO:3891
+
+Issue in Estimate services Tier 1 price details PLLP ADDONS cost/year Popup:
+
+Step 1: Login with valid credentials
+Step 2: Select the Property and Create the PLLP Estimate
+Step 3: Create services then click on PLLP
+Step 4: In Estimate Services pllp wizard page select pllp add-on services enter frequency.
+Step 5: Click CALCULATE under page tier 1 pricing-->pllp add-on cost/year popup is not showing calculated formula details--> only year and price.
+---
+SI NO:3912  -- Rock land
+
+Issue in PLLP Wizard page -->Add-on services-->frequency:
+
+Step 1: Login with valid credentials
+Step 2: Create the PLLP Estimate
+Step 3: Enter the Values in the PLLP
+Step 4: Click on PLLP under pllp wizard page in pllp add-on services --> Skip frequency or year number fields as empty.
+Step 5: Click on CALCULATE and SUBMIT --> page showing error message can't able to submit estimate.
+---
+SI NO:3913
+
+Issue in PLLP Wizard Budget services page -->Add-on services-->frequency:
+
+Step 1: Login with valid credentials
+Step 2: Select the property and Create the PLLP Budget
+Step 3: Create PLLP services for Budget
+Step 4: Click on PLLP under pllp wizard page in pllp add-on services --> Skip frequency or year number fields as empty.
+Step 5: Click on CALCULATE and SUBMIT --> page showing error message can't able to submit estimate.
+---
+SI NO:3918
+
+Issue in Estimate services the end value mismatch between Total tier 1 and Total tier 2 prices  under pricing tables:
+ 
+Step 1: Login with valid credentials
+Step 2: Create the PLLP Estimate
+Step 3: Create services Enter the Values in the PLLP
+Step 4: Click on the CALCULATE --> Total tier 1 & 2 prices--> are not getting same under pricing table comparing to total price of tier 1 & 2 in bottom of the page.
+Step 5: Total prices End values mismatch is there.
+
+---
+SI NO:3919
+
+Issue in Estimate services the Calculations mismatch for- year, w/s, Protection cost, Miscellaneous costs under Tier-2 pricing table:
+
+Step 1: Login with valid credentials
+Step 2: Create the PLLP Estimate
+Step 3: Create services Enter the Values in the PLLP
+Step 4: Click on the CALCULATE
+Step 5: Discount Calculated prices comparing to shown prices under tier 2 prices are completely getting mismatched prices for all services.
+Step 6: Total tier 2 price is getting mismatch under pricing table --> per year price.
+
+---
+SI NO:3925
+
+Issue in Downloaded Estimate page Description is empty for PLLP ADDON Tire 1:
+
+Step 1: Login with valid credentials
+Step 2: Create the PLLP Estimate
+Step 3: Create services and Enter the Values in the PLLP
+Step 4: Click on PLLP --> CALCULATE and SUBMIT
+Step 5: Click on Create Written Estimate fill Mandatory fields --> Save-->Without APPROVE
+Step 6: Under PLLP FOLLOW UP --> Open the estimate using --> Incognito window and click on download button
+Step 7: Open downloaded estimate under PLLP+ ADDONS( Tire 1) table --> Details-->description column field is EMPTY
+Step 8: Under Include column field -->Tick box turned as --> Black mark is getting visible.
+
+---
+SI NO:3929
+
+Issue in Downloaded Estimate page-->For Rejected contract-->Addon Items and details is not showing:
+
+Step 1: Login with valid credentials
+Step 2: Create the PLLP Estimate
+Step 3: Create services For PLLP- Sweeping , W/S , pressure wash and Enter the Values in the PLLP
+Step 4: Click on PLLP - Create for 1 year --> CALCULATE and SUBMIT
+Step 5: Click on Create Written Estimate --> Create Tire-1 Basic PLLP + Addon pressure wash--> Save
+Step 6: Click on PLLP - Create for 2 year --> CALCULATE and SUBMIT
+Step 7: Click on Create Written Estimate --> Create Tire-1 Basic PLLP + Addon pressure wash--> Save->
+Step 8: Under Written Estimate List click on View/Edit fill Mandatory fields -> APPROVE
+Step 9: Under PLLP FOLLOW UP --> Open the estimate using --> Incognito window and click on download button
+Step 10: For rejected contract under PLLP+ ADDONS (Tire 1) table --> Items column addons details Missing.
+---
+SI NO:3950
+
+Issue in WS route page--> draw in map and select properties:
+
+Step 1: Login with valid credentials
+Step 2: Select the PLAY GROUND from WS
+Step 3: Select the Properties for the Route and Create Service for WS Route
+Step 4: Click on--> GO TO ROUTE--> Select truck enter time and assign--> click on edit
+Step 5: WS route page click on clear button on map -->Click on draw
+Step 6: After getting property list then click on--> Yard icon in map again once-->yard getting added to property list page
+Step 7: Now click on --> Optimize time --> Calculate time --> Save --> page showing error message.
+
+---
+SI NO:3961
+
+UI Issue in tire 1 price details table--> potholes:
+
+Step 1: Login with valid credentials
+Step 2: Select the Property and Create the PLLP estimate
+Step 3: User enter 0 in the Potholes then, Click on the CALCULATE button
+Step 4: price table showing empty column Need to display the $0.00 or - hyphen in the Potholes Cost/Month.
+---
+SI NO:3973
+
+Issue in PLLP wizard and property data collections accepting -negative values:
+
+Step 1: Login with valid credentials
+Step 2: Property center page Enter -Negative values in property data collection under Winter Service and Parking lot and Save
+Step 3: Create the PLLP Estimate
+Step 4: Create services and Enter the Values in the PLLP
+Step 5: Click on PLLP--> Click download buttons for--> Service Square Footage and Walkway Area Footage
+Step 6: Now click on --> CALCULATE --> Tire 1 & Tire 2 Price details table showing -Negative Price values.
+---
+SI NO:3982
+
+Issue in PLLP Wizard-->discount % showing wrong under tier 1 PLLP+ ADDONS Price/year i icon:
+
+Step 1: Login with valid credentials
+Step 2: Create the PLLP Estimate
+Step 3: Create services and Enter the Values in the PLLP
+Step 4: Click on PLLP--> Enter values and change discount % -->CALCULATE
+Step 5: Under tier 1 PLLP+ ADDONS Price/year i icon on Top of the page discount % showing wrong.
+---
+SI NO:3985
+
+Issue in PLLP Wizard page --> For existing property-> PLLP Wizard data is not Showing:
+
+Step 1: Login with valid credentials
+Step 2: Select Existing Property from Property center page that already got approved and billing completed --> PLLP Estimate services
+Step 3: Click on --> PLLP --> page showing ERROR message "There are no winter service and maintenance contract to tie up with PLLP program!"
+---
+SI NO:3992
+
+Issue in PLLP wizard page Discount price mismatch:
+
+Step 1: Login with valid credentials
+Step 2: Click on PLLP module dropdown -->Preference-->Discount modifier enter discount % 0 and Save
+Step 3: Create the PLLP Estimate
+Step 4: Create services and Enter the Values in the PLLP
+Step 5: Click on PLLP--> Enter values in mandatory fields -->CALCULATE
+Step 6: Total Tire 1 & 2 Prices mismatch is there comparing to Price before discount
+Step 7: Total prices should been same while comparing to price before discount--> when discount % is 0.
+---
+SI NO: 4024
+
+Issue in Maint JOB not getting created:
+
+Step 1: Login with valid credentials
+Step 2: Create New property and create maint job -->Save-->Activate.
+Step 3: Click on maint scheduler click on save & finalize--> assigned job is not showing under selected route.
+Step 4: User should able to get visible assigned job under selected route.
+---
+SI NO: 4049
+
+Issue in chart--> Page is not responding:
+
+Step 1: Login with valid credentials
+Step 2: Select the CHART from the CENTER
+Step 3: Click on (-)minus button simultaneously for few seconds
+Step 4: Page is getting broken and disappeared
+Step 5: Click on refresh button page goes infinite loading and not responding to perform other actions.
+---
+SI NO: 4062
+
+UTC issue in the maint contract start date:
+
+Step 1: Login with valid credentials
+Step 2: Create the PLLP Estimate
+Step 3: Create services and Enter the Values in the PLLP
+Step 4: Click on PLLP --> CALCULATE and SUBMIT
+Step 5: Click on Create Written Estimate fill Mandatory fields --> Save-->APPROVE
+Step 6: In property page before activation Maint job-->Contract start date showing wrong comparing to system date.
+---
+SI NO: 4070
+
+Issue in Employee User Permissions changes --> Remove access permission of other location:
+
+Step 1: Login with valid credentials
+Step 2: Create employee as laborer in seattle location--> In User Permissions Select --> Reno tick box and SAVE.
+Step 3: Change to Reno location -->Create CONST,MAINT,& WS jobs and Assign job for created employee and SAVE.
+Step 4: Navigate to Seattle location then Unselect Reno tick box under user permissions --> SAVE.
+Step 5: Navigate to Reno location --> Employee details is missing for selected employee.
+Step 6: For const job employee name got disappeared ,for maint & WS entire table and details is missing.
+
+Case 1: Senthil kumar ,laborer, Reno
+      : After Unselecting reno locating for laborer from seattle.
+
+Case 2:
+
+Issue in Employee User Permissions changes --> Remove access permission of other location:
+
+Step 1: Login with valid credentials
+Step 2: Create employee as Estimator in seattle location--> In User Permissions Select --> Reno tick box and SAVE
+Step 3: Change to Reno location -->Create CONST,MAINT,& WS jobs using created Estimator
+Step 4: Navigate to Seattle location then Unselect Reno tick box under user permissions --> SAVE
+Step 5: Navigate to Reno location --> In property page -->For W/S Estimator name is missing in the table.
+
+Case 3:
+
+Step 1: Login with valid credentials
+Step 2: Create employee as Estimator in seattle location--> In User Permissions Select --> Reno tick box and SAVE
+Step 3: Change to Reno location -->Center--> Allied Forces--> Click on ADD and create using created estimator from dropdown and SAVE
+Step 4: Navigate to Seattle location then Unselect Reno tick box under user permissions --> SAVE
+Step 5: Navigate to Reno location -->Allied Forces -->Refresh-->Click on Edit for created user-->Estimator name is missing and SAVE is disabled.
+---
+SI NO: 4084
+
+Issue in contract expiry --> Follow up history table-->Popup Message:
+
+Step 1: Login with valid credentials
+Step 2: Create Maint, WS and PLLP , Open Estimates.
+Step 3: In Maint, WS and PLLP Preferences Change contract valid days for--> 1day-->Save
+Step 4: After running the Contract expiry job-->Select and Open follow up for corresponding Estimates
+Step 5: Click on follow up icon and open-->under history table in Message popup days showing wrong for all Maint, WS and PLLP
+Step 6: User should able to see days which are entered in contract valid for number field.
+---
+SI NO: 4096
+
+Issue in Property page-->W/S-->Estimator name is missing-->After employee got terminated:
+
+Step 1: Login with valid credentials
+Step 2: Create employee as Estimator in Seattle location--> In User Permissions Select --> Reno tick box and SAVE
+Step 3: Create CONST,MAINT, WS,PLLP & Budget jobs using created Estimator for both Seattle and Reno locations.
+Step 4: Navigate to Seattle location-->Center-->Employee --> Terminate Estimator
+Step 5: After terminating--> Estimator name is missing only for W/S tables Property pages for both Seattle and Reno
+---
+SI NO: 4141
+
+Property name: Check test const prod
+
+Issue in estimate data page:
+---
+Step 1: Login with valid credentials
+Step 2: Create const job for --> Striping
+Step 3: Restripe , Over Sealcoat & New Layout
+Step 4: Lineal Feet--> Crub paint table -->Enter value (5) beside of 0 (ex: 05)then click on Striping RX: 4.09 hrs --> Then back to estimate data page now remove -->
+        0 near by 5 click on Striping RX: 0hrs , rx time getting rested.
+Step 5: RX hrs: 0 --> Save
+Step 6: Estimate no:25-00206
+Step 7: Job no:25-00120ST-2
+Step 8: In Schedule center splitted the job into 2
+
+Job 1: 25-00120ST-1
+Job 2: 25-00120ST-2
+
+Job 1:  Actual Entered.
+Job 2:  Unscheduled.
+
+* In CRM Schedule Center, No option of Reclaim Job for unscheduled job(Job-2)
+---
+SI NO: 4141
+Case 2:
+---
+
+Property name: Check test const prod
+
+Issue in estimate data page:
+---
+Step 1: Login with valid credentials
+Step 2: Create const job for --> Striping
+Step 3: Restripe , Over Sealcoat & New Layout
+Step 4: Lines Data-->length , QTY-->Enter value in first rows (5) beside of 0 (ex: 05)then click on Striping RX: 4.02 hrs --> Then back to estimate data page now remove --> 0 near by 5 click on Striping RX: 0hrs , rx time getting rested.
+Step 5: RX hrs: 0 --> Save is getting enabled -->click on Save
+Step 6: Estimate no:25-00209
+Step 7: Job no:25-00123ST-2
+Step 8: In Schedule center splitted the job into 2
+
+Job 1: 25-00123ST-1
+Job 2: 25-00123ST-2
+
+Job 1:  Actual Entered.
+Job 2:  Unscheduled.
+
+* In CRM Schedule Center, No option of Reclaim Job for unscheduled job(Job-2)
+---
+SI NO:          " Need to raise in future:"
+
+QB-OFF: Seattle
+---
+
+Property name: customer prop Delete
+---
+
+Issue in customer property delete--> customer contains property & building:
+
+Step 1: Login with valid credentials
+Step 2: Create customer , property and building.
+Step 3: Create Const , maint , WS , PLLP , Budget services.
+Step 4: In property page-->Click on Customer tab --> click on delete and click on yes.
+Step 5: Customer is getting deleted --> User should not able to delete while customer having property and buildings.
+Step 6: In Event property mapping list page -->center,const,maint,ws,pllp,tlc not getting processed.
+Step 7: Under Command prompt server --> Property mapping ---> throws--> error in server.
+
+---
+SI NO: 4191
+
+Issue in +ASSIGN TASK Global filter:
+
+Step 1: Login with valid credentials
+Step 2: Select the TASK INFO from the TASK --> Owner
+Step 3: Under list --> click on --> Chunk View
+Step 4: Click on +Assign task button --> Global filter text field search for task select
+Step 5: Clear filter then --> Again searching using task name filter is not working as Expected
+Step 6: User should able to get search filter results while clear and re-searching using task names.
+
+---
+SI NO: 4198
+
+UI Issues in Calendar --> Month View page:
+
+Step 1: Login with valid credentials
+Step 2: Select the TASK INFO from the TASK --> Calendar --> Month view
+Step 3: When user hover the mouse on the calendar Dates --> Tooltip showing --> Go to Scheduler
+Step 4: When user scroll down --> Click on more option --> message tab got covered bottom of the page and scroll is not working.
+ 
+---
+SI NO: 4204
+
+Issue in Task owner page list view table:
+
+Step 1: Login with valid credentials
+Step 2: Select the TASK INFO from the TASK --> Owner
+Step 3: Under list --> click on --> Chunk View --> Edit Master --> Edit and Save
+Step 4: In owner page table showing Overall data under the list table -->but selected records-->10.
+
+---
+SI NO: 4210
+
+UI Issues in Calendar--> View page:
+
+Step 1: Login with valid credentials
+Step 2: Select the TASK INFO from the TASK --> Calendar --> Month view
+Step 3: Click on Metaballs Menu icon-->in view page When user clicks on anyplace against the title, description and resource link fields tooltip is displaying
+Step 4: Resource Link icon having UI issue --> Need to correct resource icon
+Step 5: When user clicks upon --> Resource link user navigates to --> ACM login page
+Step 6: User should able to navigate to corresponding page.
+
+---
+SI NO: 4213
+
+Issue in completing overdue task--> From employee login:
+
+Step 1: Login with valid credentials
+Step 2: Select the TASK INFO from the TASK
+Step 3: Select Overdue task click on Metaballs menu --> Complete task --> click on complete button
+Step 4: Screen shows --> There seems to be an issue...please contact administrator!!! error message
+Step 5: And getting error in web server and console.
+
+Case 2:
+
+Issue in completing ToDo task --> From Admin login:
+
+Step 1: Login with valid credentials
+Step 2: Select the TASK INFO from the TASK --> Calendar --> Week view
+Step 3: Click on More--> select task -->click on Metaballs menu --> Complete task --> click on complete button
+Step 4: Screen shows --> There seems to be an issue...please contact administrator!!! error message
+Step 5: And getting error in web server and console
+Step 6: Task status showing completed.
+
+---
+SI NO: 4225
+
+Issue in Add New Task To Chunk page --> From employee login:
+
+Step 1: Login with valid credentials
+Step 2: Select the TASK INFO from the TASK
+Step 3: Select task click on Metaballs menu --> Click on Create Chunk This Task -->Create New Chunk page
+Step 4: In Split task by number field enter --> 5 Click on NEXT BUTTON
+Step 5: Add New Task To Chunk page click on --> PREVIOUS button --> Not working
+Step 6: When user clicks upon previous button should able to post back to --> Create New Chunk Page
+Step 7: Then click on --> NEXT -->CREATE --> Add New Task To Chunk page --> Under task list
+Step 8: Click on Metaballs menu --> Separator Line is Missing between--> Delegate this task & Complete task.
+
+---
+SI NO: 4233
+
+Issue in Create task page:
+
+Step 1: Login with valid credentials
+Step 2: Select the TASK INFO from the TASK --> Create task
+Step 3: click on -->Repeat Task tick button and select
+Step 4: Scroll up the screen -->Click on Calendar icon --> calendar pop is getting covered top of screen user cant able to select dates--> Scroll is not working
+Step 5: Calendar pop up should get open bottom of date field when user scrolls up the screen.
+
+---
+SI NO: 4234
+
+UI issue in Chart --->Resource icon:
+
+Step 1: Login with valid credentials
+Step 2: Select the  CHART from the CENTER
+Step 3: Click on the Position --> Click on Task
+Step 4: Select task --> Click on (i) icon --> Resource link icon having UI issue
+Step 5: Need to correct resource link icon
+
+---
+SI NO: 4244
+
+UI issue in Create task page:
+
+Step 1: Login with valid credentials
+Step 2: Select the TASK INFO from the TASK --> Create task
+Step 3: Click on --> Reminder tick box and select
+Step 4: While user scrolls the screen Up and down --> page showing small lines under reminder button.
+
+---
+SI NO: 4255
+
+Issue in Task page table:
+
+Step 1: Login with valid credentials
+Step 2: Select the TASK INFO from the TASK --> Table rows
+Step 3: Select any one task popup gets opens --> Scroll page
+Step 4: Popup is not navigating along with table row --> User should now Come to know from which task he opens the popup
+Step 5: Need to point out with help of Arrow with popup -->ex: same like Calendar--> Month view page --> popup.
+ 
+---
+SI NO: 4267
+
+Issue in task page table records:
+
+Step 1: Login with valid credentials
+Step 2: Select the TASK INFO from the TASK --> Table
+Step 3: In records field select 25 then again change to 10
+Step 4: in first page it shows 10 records but in 2 & 3 page records got merged together.
+
+---
+SI NO: 4274
+
+Issue in TLC --> W/S route:
+
+Build -> TaskPos
+
+
+Step 1: Login with valid credentials
+Step 2: Create W/S route for property and assign
+Step 3: In TLC App, Driver login --> click on Clock in button--> select WS route
+Step 4: Click on Proceed button -->page shows popup --> Click on OK button
+Step 5: User can't able to proceed forward actions to start route --> page is not responding and getting blank
+Step 6: click on past route then back to today's route on TOP of page showing --> Clock-out button and take-break button
+Step 7: Take break button is not working.
+
+---
+SI NO: 4276
+
+Issue in TLC routes showing multiple times
+
+Step 1: Login with valid credentials
+Step 2: Create W/S route for property and assign
+Step 3: In TLC App , Driver login --> Options --> Settings --> Clear data 2-3 times
+Step 4: Then navigate to --> Past or Future routes get back to Today's route page
+Step 5: Single route reflects multiple times around 4-8 times.
+
+Note: Same issue occurs for const routes also
+
+---
+SI NO: 4284
+
+Step 1: Login with valid credentials
+Step 2: Create W/S route for property and assign
+Step 3: In TLC App , Driver login --> Clock in button --> select WS route
+Step 4: Click on Proceed button -->page shows popup --> Click on OK button
+Step 5: Click on Clock Out button --> Ok -->Showing error message like "Your active route has been removed March day task. Please contact administrator" Bottom of the page
+Step 6: Web server also showing error.
+
+---
+SI NO: 4300
+
+Pixel issue in TLC start task screen:
+
+Emulator Name: Pixel 4 API 33
+
+Step 1: Login with valid credentials
+Step 2: Create W/S route for property and assign
+Step 3: In TLC App , Driver login --> Clock in button --> select Task
+Step 4: Click on Proceed button-->Click on Start task --> Screen having pixel issue it --> covers high priority tag.
+
+---
+SI NO: 4310
+
+Issue in TLC Tasks getting disappears form task list:
+
+Step 1: Login with valid credentials ACM TLC
+Step 2: In TLC App , Driver login --> Clock in button --> select Task
+Step 3: Click on Proceed button-->Click on Start task --> Complete 2-3 tasks continuously
+Step 4: Then click on --> Clock out button
+Step 5: Now Click on Clock in again Select const route --> and proceed --> Start verify
+Step 6: After loading page getting blank not responding to user and shows error message like active route has been removed
+Step 7: Click on back button --> Showing error messages one by one --> Tasks are getting removing form task list
+Step 8: Now task list is getting empty.
+
+---
+SI NO: 4319
+
+Issue in Maint route in TLC:
+
+Step 1: Login with valid credentials ACM TLC
+Step 2: In TLC App , Driver login --> Clock in button --> select Maint route
+Step 3: Click on Proceed button-->Click on Start JOB --> Start service property
+Step 4: Timer on --> get back to Dashboard page --> Again click on same maint job
+Step 5: Click on --> Switch Route --> button is not working.User can't able to continue route.
+
+Note : Need to remove Switch route button for maint job
+
+---
+SI NO: 4324
+
+UI issue in Actual summary page:
+
+Step 1: Login with valid credentials
+Step 2: Select the ACTUAL SUMMARY from the ADMIN
+Step 3: In verify status -->Click on --> Pending , Verified or Finalized
+Step 4: While scrolling the page getting merged with top of the heading table background.
+
+---
+SI NO: 4331
+
+UI issue in Rating page:
+
+Step 1: Login with valid credentials
+Step 2: Select the RATING from the ADMIN
+Step 3: click on Comments icon --> Given notes getting of the box.
+ 
+---
+SI NO: 4332
+
+Alignment issue in Rating page:
+
+Step 1: Login with valid credentials
+Step 2: Select the RATING from the ADMIN
+Step 3: Click on records change 10 --> 25 records
+Step 4: page change over button Showing left corner under table --> Need to correct the alignment.
+
+---
+SI NO: 4341
+
+Issue in TLC maint route:
+
+Step 1: Login with valid credentials ACM TLC
+Step 2: Maint job displayed in DASHBOARD page
+Step 3: Click on --> Clock in button --> maint job is not getting visible in proceed page
+Step 4: Maint job need to get visible to user to select and proceed the maint job.
+
+---
+SI NO: 4343
+
+Issue in TLC Const route:
+
+Step 1: Login with valid credentials
+Step 2: Create const route for property and assign
+Step 3: In TLC App , Driver login --> assigned const job is missing in dashboard page.
+Step 4: Assigned const job need to get visible to user to select and proceed the const job.
+
+---
+SI NO: 4350
+
+UTC issue in TLC:
+
+Step 1: Login with valid credentials ACM TLC
+Step 2: In TLC App , Driver login in TIME --> 11:39pm --> Date: 20-04-2025
+Step 3: In Today's (Apr 20) Activities Dashboard page --> Click on --> Future Activities page user can't able to perform any actions
+Step 4: Now click on --> Options --> Clear data --> future activities showing --> Today's Activities (Apr 21) after clearing the data but time is 11:41pm --> Date: 20-04-2025
+Step 5: Before day change over --> future activities page should not show like today's activities in dashboard page need to show future activities.
+
+---
+SI NO:  ---> "Need to raise in w/s change"
+
+Issue in WS Actuals page:
+
+Step 1: Login with valid credentials
+Step 2: In WS-->Click on -->Actuals-->WS Scheduler
+Step 3: Select the WS route and user manually starts the WS route
+Step 4: Click on enter actuals icon and user enter the mandatory fields and click on save in the enter actuals page
+Step 5: User navigate to summary icon and click and save the finalize icon is displaying to users click on finalize icon user can able to finalize the data
+Step 6: Navigate to enter WS actuals page add employee entered clock in and clock out is getting disappeared for driver but user enter the mandatory data for new employee the save button is getting enable without clock in clock out for driver click on save button it saved successfully
+Step 7: User click on finalize icon user can finalize the data without clock in and clock out time of driver.
+ 
+---
+SI NO: 4366
+
+Issue in TLC const route timer:
+
+Step 1: Login with valid credentials
+Step 2: In TLC App , Driver login -->clock in
+Step 3: Select const route --> proceed -->OK -->Click on Start route again button
+Step 4: Now click on --> Proceed job --> now click on --> My Route --> NO user navigates to timer clock page
+Step 5: When user clicks upon --> NO button should get back to post page.
+
+---
+SI NO:
+
+Issue in TLC Task Take Break:
+
+Step 1: Login with valid credentials
+Step 2: In TLC App , Driver login -->clock in
+Step 3: Select Track time task first and complete
+Step 4: Again complete Non track time task and complete
+Step 5: Now user clicking on --> Take Break --> button is not working
+Step 6: When user clicks upon take break button break timer should get open.
+
+---
+SI NO: 4375
+
+Issue in WS route before clock in:
+
+Step 1: Login with valid credentials
+Step 2: Create W/S route for property and assign
+Step 3: In TLC App , Driver login --> before clock in
+Step 4: Click upon WS route in dashboard page after page loads
+Step 5: page showing --> start verify --> Crew --> Verify--> proceed --> Start route
+Step 6: After check in --> start job --> click on --> Ok button no response
+Step 7: Then get back to dashboard page route status showing --> In progress.
+
+---
+SI NO: 4385
+
+Issue in TLC recent view:
+
+Step 1: Login with valid credentials
+Step 2: Click on --> Clock in --> Select task --> Proceed
+Step 3: User navigates to task page -->before completing task get back to dashboard page
+Step 4: Click on take break after completing  break click on same task and get back to dashboard page
+Step 5: Now in recent view same task showing two times in recent.
+
+---
+SI NO: 4387
+
+Issue in TLC- Deleted task:
+
+Step 1: Login with valid credentials in web ACM
+Step 2: Task info -->Create a task and assign form employee
+Step 3: Login with valid credentials --> ACM TLC
+Step 4: After the created task get shown in dashboard -->now delete the created task in web
+Step 5: Now in TLC click on --> Clock in -->user is able to complete the deleted task
+Step 6: Whenever task deleted by admin in web --> Assigned task (deleted) should not be listed.
+ 
+---
+SI NO: 4393
+
+Issue in TLC- Past and Future routes-Clear data:
+
+Step 1: Login with valid credentials --> ACM TLC
+Step 2: I Today's Activities Dashboard page Click on Past or Future Activities
+Step 3: Now Click on --> options --> Clear data get back to dashboard page showing Today's Activities for past and future activities
+Step 4: Also Clock in button is getting visible to user and able to click in and clock out.
+
+---
+SI NO: 4427
+
+Issue in Employee center:
+
+Step 1: Login with valid credentials in web ACM
+Step 2: Seattle location --> Center --> Employee
+Step 3: Create employee primary location with--> Reno--> Save
+Step 4: NOW Login with valid credentials in web ACM -->Reno location
+Step 5: Center menu--> Employee-->Search for employee created with primary location--> Reno in search filter
+Step 6: No results found --> page is blank.
+
+NOTE: Same issue occurred for Employee Created in reno location
+
+---
+SI NO: 4442
+
+Issue in Clock in page tasks:
+
+Step 1: Login with valid credentials --> ACM TLC
+Step 2: Click On--> Clock in-->from Today's Activities Dashboard page
+Step 3: Click on Future Activities page -->Refresh the page
+Step 4: After refresh -->All tasks getting removing one by one automatically
+Step 5: Navigate to today's activities page task list is empty.
+
+---
+SI NO: 4445
+
+UI issue in HIT List icon in Physical device:
+
+Step 1: Login with valid credentials --> ACM App in Physical device
+Step 2: Click on --> Clock in --> Select const route start route and complete the route
+Step 3: When user post back to clock in dashboard page
+Step 4: HIT List icon disappeared and showing black box  in place of hit list icon
+Step 5: When user sign out and sign in again --> Hit list icon showing correctly.
+
+Physical Device:
+Phone name: Realme 3
+Android Version: 10  ------>( Ws route is tlc and const route in physical device ---> run both in same time parallelly.....)
+
+---
+SI NO: 4450
+
+Issue in TLC Click in page Overdue task:
+
+Step 1: Login with valid credentials --> ACM TLC
+Step 2: Click on --> Clock in --> Select Route and --> Proceed -->back to clock in dashboard page
+Step 3: In ACM Web --> Task info --> Create task --Within short time 2-3 mins -->SAVE
+Step 4: Assign task instantly for the employee refresh page --> clock in dashboard page task is getting visible
+Step 5: Give task time is over --> Overdue status is not updating for the assigned task
+Step 6: But in web overdue status is showing --> when user clock out --> task status showing overdue.
+
+---
+SI NO: 4453
+
+Issue in Actual Timesheet auto approve:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Create Const route and assign for employee
+Step 3: Login with valid credentials --> ACM TLC
+Step 4: Clock in -->Select const route --> and complete job --> clock out
+Step 5: In web Actual timesheet -->Reload--> select the assigned employee -->Status showing pending
+Step 6: After completing job in timesheet Auto approve is not updating automatically.
+
+---
+SI NO:
+
+Issue in TLC & Actual timesheet approve:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Create Const route and assign for employee
+Step 3: Login with valid credentials --> ACM TLC
+Step 4: Clock in -->Select track-time Task --> and complete task
+Step 5: Now select Const job and proceed --> Now in actual timesheet page click on reload -->Click on Approve button
+Step 6: In TLC open const job-->proceed-->don't complete job--> End route--> Clock out-->Status getting auto verified
+Step 7: Again click on clock in -->Select same route-->Showing Job skipped message cant able to move forward and complete job.
+
+---
+SI NO: 4487
+
+Issue in TLC Track-time task status:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Create the two different task One with Track-time and another with non Track time task
+Step 3: Login with valid credentials as employee
+Step 4: Click on Clock in -->select non track time task first -->off the Wi-Fi and mobile data off physical device complete the assigned task
+Step 5: Now select Track-time task and complete the task
+Step 6: Turn on the mobile data click on clock out
+Step 7: The non track time task status displayed as completed in physical device and web
+Step 8: The track time task status as been completed in web but user switch on the mobile data or Wi-Fi in the physical device the task status displayed as To Do.
+
+---
+SI NO: 4490
+
+Issue in Task with TLC:
+
+Case 1:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Create the non Track time task
+Step 3: Login with valid credentials as employee
+Step 4: Click on Clock in -->select non track time task-->Turn off the Wi-Fi and mobile data in physical device --> complete the assigned non track time task
+Step 5: The non track time task status displayed as completed in dashboard physical device
+Step 6: Click on clock out, Turn on the mobile data -->Refresh the page
+Step 7: The task status displayed as Overdue In the physical device and also in web
+Step 8: The actual time sheet displayed no records as per below.
+---
+Case 2:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Create the Track - time task
+Step 3: Login with valid credentials as employee
+Step 4: Click on Clock in -->select Track - time task-->Turn off the Wi-Fi and mobile data in physical device --> complete the assigned track time task
+Step 5: The track time task status displayed as completed in dashboard physical device
+Step 6: Click on clock out, Turn on the mobile data -->Refresh the page
+Step 7: The task status displayed as Overdue In the physical device and also in web
+Step 8: The actual time sheet displayed no records as per below.
+---
+SI NO: 4497
+
+Issue in Actual time sheet Approve & Unlock buttons:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Admin --> Actual timesheet --> select employee
+Step 3: Click on -->Pending --> Approve button --> Confirm
+Step 4: Page showing error message like-->LocalStartTime(14-05-2025 02:47:31) or LocalEndTime(14-05-2025 02:47:31) overlaps with existing timesheet
+Step 5: Then i did some changes below route date and time in same page  -->Now Approve button and Unlock buttons showing side by side getting out of the table in previous route.
+
+---
+SI NO:
+
+Issue in Actual time sheet Out time data:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Create Const route and assign for employee
+Step 3: Login with valid credentials --> ACM TLC
+Step 4: Clock in -->Select const job -->start job --> Turn off Wi-Fi timer runs for 2 mins
+Step 5: Then complete job--> Enter actuals -->End route--> Dashboard page--> Refresh page --> Turn on Wi-Fi
+Step 6: Select same job --> Start Route Again --> start job -->Turn off Wi-Fi timer runs for 2 mins
+Step 7: Follow same steps for 3 times --> In Admin --> Actual timesheet --> select employee
+Step 8: The actual time sheet displayed without Out(Time) data as per below.
+
+---
+SI NO: 4513
+
+UI issue in chart:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Center --> Chart -->Click on Concentric circle icon Level 1 and select Tick box
+Step 3: Click on Concentric circle icon Level 2 --> Level 1 tick mark getting disappeared
+Step 4: Select Level 2 tick box --> Click on Concentric circle icon Level 3-->Level 2 tick mark getting disappeared
+Step 5: In chart tick boxes showing as marked. but in top page tick marks getting disappeared for selected Teams.
+
+---
+SI NO: 4515
+
+UI issue in Fleet List page table:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Center--> Fleet--> Click on Fleet List
+Step 3: In page --> Vehicle Serial# Getting out of the table
+Step 4: Comparing to (EX: serial Num) if user enters same format it will exceed the display area.
+
+---
+SI NO: 4537
+
+Issue in property search field filter:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Property center search field-->When user copy paste property address with using comma(,)
+Step 3: Search filter not showing the results
+Step 4: when user removes comma from address, then filters showing results.
+ 
+---
+SI NO: 4545
+
+Issue in TLC WS route:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Create WS route and assign for employee
+Step 3: Login with valid credentials --> ACM TLC
+Step 4: Click on --> Clock in --> Select WS route start route
+Step 5: click on verify button --> in popup screen user clicks on Cancel button is not working
+Step 6: User should not able to navigate to post back screen. while clicks on cancel button.
+
+NOTE: Same issue occurs in Maint route also.
+
+---
+SI NO: 4552
+
+Issue in TLC Maint Add crew:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Create Maint route and assign for employee
+Step 3: Login with valid credentials --> ACM TLC
+Step 4: Click on --> Clock in --> Select Maint route start route
+Step 5: Planned three jobs in a route -->completed 1st job
+Step 6: Before starting 2nd job -->click on the crew and add another employee to the crew, then select the 2nd job
+Step 7: Added employee for the crew is not getting displaying in the maintenance Start job page in the tlc app.
+
+---
+SI NO: 4576
+
+Case 1:
+---
+
+Issue in TLC Maint route:
+
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Create Maint route and assign for employee
+Step 3: Login with valid credentials --> ACM TLC
+Step 4: Click on --> Clock in --> Select Maint route start route
+Step 5: Planned three jobs in a route -->completed 1st job
+Step 6: Before starting 2nd job -->click on the crew and add another employee to the crew, then select the 2nd job
+Step 7: Start job --> Click on --> Complete job--> Getting black Screen
+Step 8: User can't able to do further actions cannot able to complete the job--> Status remains in progress.
+
+
+
+Case 2:
+---
+
+Issue in TLC maint route:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Create Maint route and assign for employee
+Step 3: Login with valid credentials --> ACM TLC
+Step 4: Click on --> Clock in --> Select Maint route start route
+Step 5: Planned two jobs in a route -->completed 1st job
+Step 6: Then select 2nd job Start job --> Click on --> Complete job--> Getting black Screen
+Step 7: User navigates to dashboard page then back to same route -->End Route button getting visible
+Step 8: Click on end route --> route status showing completed --> click on--> clock out
+Step 9: In home page route status remains--> In progress also in web.
+---
+SI N0: 4598
+
+Case 1:
+---
+
+Issue in Product const preference Overlay prep:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Click on --> Const --> Others--> Preferences --> Overlay Prep
+Step 3: Disable Products and product types in both Grinding & Cleaning pages
+Step 4: Select a Property --> Create const estimate for Overlay prep
+Step 5: Enter the values in estimate data screen then click on cleaning screen
+Step 6: In Material Config Product types--> Showing in red colour --> SAVE
+Step 7: Then again open same estimate--> Product type column is getting blank.
+
+Case 2:
+---
+
+Issue in Product type - Signs wizard screen:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Click on --> Const --> Others--> Preferences --> Signs
+Step 3: Disable Products and product types in edit product pages
+Step 4: Select a Property --> Create const estimate for Signs
+Step 5: Enter the values in estimate data screen
+Step 6: In Material Config Product types--> Showing in red colour --> SAVE
+Step 7: Then again open same estimate--> Product type column is getting blank.
+
+Case 3:
+---
+
+Issue in Product type - Wheel stops wizard screen:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Click on --> Const --> Others--> Preferences --> Wheel stops
+Step 3: Disable Products and product types in edit product pages
+Step 4: Select a Property --> Create const estimate for Wheel stops
+Step 5: Enter the values in estimate data screen
+Step 6: In Material Config Product types--> Showing in red colour --> SAVE
+Step 7: Then again open same estimate--> Product type column one product type is getting blank
+Step 8: wheel stops getting visible --> Wheel stop pins got disappeared.
+ 
+---
+SI NO: 4599
+
+Issue in Product const preference:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Click on --> Const --> Others--> Preferences --> Sealcoat
+Step 3: Disable Product and Product type in edit product page and SAVE
+Step 4: In Sealcoat Prep --> preference page --> Product field is --> Showing blank
+Step 5: When the product got disabled need to show --> Red in colour.
+
+---
+SI NO: 4603
+
+Issue in const Preference Curb Repair:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Click on --> Const --> Others--> Preferences --> Curb Repair
+Step 3: In Curb Remove screen --> Under Variable Configuration --> Preferred Dump Product field is getting--> Overlapped with--> pour in place min/yd
+Step 4: And While user clicks upon down arrow dropdown is not working instead of user clicks upon or nearby product name dropdown getting open.
+
+---
+SI NO: 4604
+
+Issue in create estimate - Sealcoat wizard:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Click on --> Const --> Others--> Preferences --> Sealcoat
+Step 3: Disable Products and Product types for both sealcoat prep & sealcoat app in edit product page and SAVE
+Step 4: Select a Property --> Create const estimate for Sealcoat
+Step 5: Enter the values in Sealcoat prep & Sealcoat App screen then click on--> SAVE
+Step 6: Page showing --> Error message --> getting error in console and web service.
+
+---
+SI NO: 4612
+
+Case 1:
+---
+
+Issue in const Preference Striping:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Click on --> Const --> Others--> Preferences --> Striping
+Step 3: Disable 1st Product Arrow 72"(Stencil) in edit product page and SAVE
+Step 4: In Striping preference under Stencil configuration entire product table getting disappeared.
+
+-------------------------------------------------------------------------------------------------------------:--
+Case 2:
+---
+
+Issue in const Preference Striping:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Click on --> Const --> Others--> Preferences --> Striping
+Step 3: When user Disable 2nd product ADA - Blue and White (Stencil) in edit product page and SAVE
+Step 4: In Striping preference under Stencil configuration--> Except 1st product-->All remaining products getting disappeared from the table
+Step 5: When user clicks upon SAVE button on top of the striping preference screen --> Page showing--> Error message --> getting error in console and web service.
+
+--------------------------------------------------------------------------------------------------------------:-
+Case 3:
+---
+
+Issue in striping wizard screen:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Click on --> Const --> Others--> Preferences --> Striping
+Step 3: Disable or Inactive the Product SW-White (Stencil) in edit product page
+Step 4: Select a Property --> Create const estimate for striping
+Step 5: Enter the values in estimate data screen click on striping
+Step 6: In striping screen Material Config--> Inactive Product -->Showing as enable
+Step 7: Disabled or Inactive products need to -->Show red in colour.
+
+---
+SI NO: 4614
+
+Issue in Bollards wizard screen:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Click on --> Const --> Others--> Preferences --> Bollards
+Step 3: Disable or Inactive the Product types in edit product page
+Step 4: Select a Property --> Create const estimate for Bollards
+Step 5: Enter the values in estimate data screen
+Step 6: In bollards screen Material Config--> Product type showing red In colour -->SAVE
+Step 7: Then again open same estimate--> Product types got enabled
+Step 8: Disabled or Inactive products need to -->Show red in colour.
+
+---
+SI NO: 4617
+
+Case 1:
+---
+
+Issue in Concrete Repair wizard screen:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Click on --> Const --> Others--> Preferences --> Concrete Repair
+Step 3: Disable or Inactive the Product types in edit product page
+Step 4: Select a Property --> Create const estimate for Concrete Repair
+Step 5: Enter the values in estimate data screen click on Concrete Replace
+Step 6: In Concrete Replace screen Material Config-->product & Product type showing red In colour -->SAVE
+Step 7: Then again open same estimate--> Product got enabled
+Step 8: Disabled or Inactive products need to -->Show red in colour.
+
+Case 2:
+---
+
+Issue in Concrete Repair wizard screen:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Select the riser config products, Disable or Inactive the Product types in edit product page
+Step 3: Click on --> Const --> Others--> Preferences --> Concrete Repair-->Riser config
+step 4: Need to display the inactive products in red colour in the preference page
+Step 5: Select a Property --> Create const estimate for Concrete Repair
+Step 6: Enter the values in estimate data screen click on Concrete Replace
+Step 7: Need to display the inactive products in red colour for the riser data config in the estimate data page
+Step 8: User navigate to concrete replace page need to display inactive products in red colour for the riser data config concrete replace wizard page
+Step 9: Inactive or disabled products and product types should been visible in red colour under material config table.
+
+---
+SI NO: 4618
+
+Issue in Crackfill wizard screen:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Click on --> Const --> Others--> Preferences --> Crackfill
+Step 3: Disable or Inactive the Product types in edit product page
+Step 4: Select a Property --> Create const estimate for Crackfill
+Step 5: Enter the values in estimate data screen
+Step 6: In Material Config-->product & Product type showing red In colour -->SAVE
+Step 7: Then again open same estimate--> Product got enabled
+Step 8: Disabled or Inactive products need to -->Show red in colour.
+
+---
+SI NO: 4628
+
+Issue in TLC WS route Helper Login:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Create WS route and assign for Driver and Helper
+Step 3: Login with valid credentials --> ACM TLC --> Helper Login
+Step 4: In dashboard and clock in page WS route -->Showing Foreman as (F) need to hide
+Step 5: Need to display it as Driver (D).
+
+---
+SI NO: 4641
+
+Issue in create task:
+
+Step 1: Login with valid credentials as Admin in the ACM Web
+Step 2: Select the TASK INFO from the TASK
+Step 3: Click on the CREATE TASK and Create the Repeat Task for 7*per week and fill required fields
+Step 4: Now after select 6 days checkboxes in week --> Copy & paste selected checkbox in pending box by clicking tab key then click Enter key
+Step 5: Repeat same steps for several time finally select last box and click on SAVE
+Step 6: Click on refresh button -->Then i added admin to created task-->in edit task page-->Click on refresh
+Step 7: Created task showing multiple times in task table.
+
+---
+SI NO: 4648
+
+Issue in WS Enter Actuals:
+ 
+Step 1: Login with valid credentials as Admin in the ACM Web
+Step 2: Create WS route for the property
+Step 3: Click on WS--> Click on -->Actuals-->WS Scheduler
+Step 4: Select the WS route and user manually starts the WS route
+Step 5: In Enter Actuals screen --> When user scrolls the page up and down
+Step 6: The CANCEL button alignment is not properly aligned, the CANCEL text displayed outside the label, at that time user click on the cancel button it is not working.
+ 
+NOTE: The Same issue also occurred in maint enter actuals.
+---
+
+SI NO: 4651
+
+Issue in Striping Wizard page:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Click on --> Const --> Others--> Preferences --> Striping
+Step 3: Disable or Inactive the Products in edit product page-->in preference products got removed in stencil config
+Step 4: Select a Property --> Create const estimate for Striping
+Step 5: Enter the values in estimate data wizard screen
+Step 6: In Stencil table disabled and inactive products getting visible --> Need to hide
+
+---
+SI NO: 4657
+
+Build: WSMaint
+
+Issue in Task page Table:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Click on TASK --> TASK INFO
+Step 3: Under table user changes records dropdown from 10 to 25
+Step 4: Then user scrolls the table up and down table alignment is not aligned properly.
+
+NOTE: The same issue also occurred in Project and Owner tabs
+
+---
+SI NO: 4658
+ 
+Build: WSMaint
+ 
+Issue in Project tab page Table:
+ 
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Click on TASK --> TASK INFO
+Step 3: In Project page change over < 1 2 > buttons is not getting visible initially  even though table contains above 10 records
+Step 4: When user changes records dropdown from 10 to 25  then again change 25 to 10 page showing change over buttons.
+
+---
+SI NO: 4659
+
+Build: WSMaint
+
+Issue in Edit project:
+ 
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Click on TASK --> TASK INFO --> Owner tab
+Step 3: Select a project click on ellipsis icon --> Edit project
+Step 4: Then without doing any changes in edit project page--> click on SAVE
+Step 5: Page showing--> Error message --> getting error in console and web service.
+
+---
+SI NO:4662
+
+Build: Wsmaint
+ 
+Issue in Striping Wizard Screen:
+ 
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Click on --> Const --> Others--> Preferences --> Striping
+Step 3: Disable or Inactive the Products in edit product page-->in preference products got removed in stencil config
+Step 4: Select a Property --> Create const estimate for Striping
+Step 5: Enter the values in estimate data wizard screen--> click on --> Show full list check button
+Step 6: In Stencil table inactive products getting visible middle of the table --> Need not to show inactive products.
+
+---
+SI NO: 4678
+
+Build: Wsmaint
+
+Issue in Scheduler Page:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Select a Property --> Create const estimate for the property-->Approve-->Create job
+Step 3: Const Scheduler --> Schedule the created job in a route before clicking on - SAVE
+Step 4: Const -->  Schedule Center --> Select the created estimate click on --> Ellipsis icon --> Click on Reclaim Job
+Step 5: Now in click on Scheduler tab --> Click on SAVE button
+Step 6: Page showing--> Error message --> getting error in console and web service.
+
+---
+SI NO: ON-HOLD
+
+Issue in const billing -- Overriden case:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Select a Property --> Create const estimate for the property-->Approve-->Create jobs--> Split into 3 jobs
+Step 3: Const Scheduler --> Schedule any 1 created jobs in a route click on - SAVE --> assign a job in job planner
+Step 4: Login with valid credentials --> ACM TLC
+Step 5: Click on --> Clock in --> Select const route start route-->Completed the assigned  1 job
+Step 6: Now in Const Actuals --> Summary --> Finalize
+Step 7: In view estimate service tab --> Complete --> QC & Job Actuals --> status change to ActualEntered
+Step 8: Click on Schedule Center --> Select the created estimate click on --> Ellipsis icon --> Reclaim  2 pending Jobs
+Step 9: Now in billing center --> Green colour (+) button is not getting visible to create a invoice.
+
+---
+SI NO:4683
+
+Build: WSMaint
+
+Case 1:
+---
+
+Issue in Const Scheduler -- Add Crew
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Const --> Scheduler --> click on + Add Crew
+Step 3: Without selecting route name --> Click on --> Save
+Step 4: Getting empty space between route and Add crew button
+Step 5: If user clicks on save button again and again without selecting a route name field
+Step 6: Add crew button get disappeared from the screen and hides in right side corner.
+
+Case 2:
+---
+
+Step 1: Const --> Scheduler --> click on + Add Crew --> Select route name from dropdown
+Step 2: Click on save selected route will get added to scheduler page
+Step 3: Now Without selecting route name --> Click on --> Save
+Step 4: Same route get added to scheduler page route list as number 2
+Step 5: If user clicks on save button again and again without selecting a route name field
+Step 6: Same route getting added to the route list several times.
+
+---
+SI NO:4687
+
+Build: WSMaint
+
+Issue in Actual time sheet:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Admin --> Actual time sheet -->Select employee click on -->Verified
+Step 3: Select route click on -->More button -->In RawGF tab -->Yard/Property names missing
+Step 4: In RawGF table currently mentioned as -->Yard Property need to put (/) between yard and property--> Yard/Property
+Step 5: When user clicks on ProcessedGF -->Post back to RawGF --> Time and Exit getting disappered.
+
+---
+SI NO:4688
+
+Build: WSMaint
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Admin --> Actual time sheet -->Select employee click on -->Verified
+Step 3: Select route click on -->More button --> Click on RawGF tab
+Step 4: Getting error in console.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SI NO:4695
+
+Build: WSMaint 
+
+Issue in Actual time sheet - Map:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Admin --> Actual time sheet -->Select employee click on -->Verified
+Step 3: Select WS route click on -->More button -->In Map tab -->Property location icon missing 
+Step 4: For the same property const route --> in map tab -->Property location icon is getting visible.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SI NO: 4696
+
+Build: WSMaint 
+
+Issue in Actual time sheet - Map All filters:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Admin --> Actual time sheet -->Select employee click on -->Verified
+Step 3: Select Const route click on -->More button -->In Map tab -->click on All filter icon 
+Step 4: Uncheck all --> now select only Job & break check boxes --> click on apply button
+Step 5: In map selected location icons getting disappears from map 
+Step 6: Need to display location icons for selected check boxes.   
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SI NO:4698
+
+Build: WSMaint
+
+Issue in Actual time sheet - Map All filters:
+
+Step 1: Login with valid credentials -->ACM Web
+Step 2: Admin --> Actual time sheet -->Select employee click on -->Verified
+Step 3: Select Const route click on -->More button -->In Map tab
+Step 4: When user clicks upon Property location icon--> popup table showing Crew name under Yard/Property
+Step 5: Need to display Property or yard name in the popup table
+Step 6: When user clicks upon -->Break End location icon -->Popup title showing -->Break - Start Time need to display Break - End Time.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
